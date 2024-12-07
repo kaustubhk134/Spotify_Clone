@@ -10,10 +10,8 @@ A responsive web application mimicking the user interface of Spotify. This proje
 - [Setup Instructions](#setup-instructions)
 - [Folder Structure](#folder-structure)
 - [Key Design Elements](#key-design-elements)
-- [Responsive Design](#responsive-design)
-- [Screenshots](#screenshots)
-- [License](#license)
-
+- [Setup Instructions](#setup-instructions)
+  
 ---
 
 ## Features
